@@ -1,2 +1,2 @@
-#!/bin/sh
-realpath .
+#!/bin/bash/
+pwd
